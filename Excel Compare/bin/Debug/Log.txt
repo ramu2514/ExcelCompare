@@ -1,0 +1,26 @@
+08-24-2014 19:47 29 PM :Starting Program...
+08-24-2014 19:47 29 PM :New Excel File: C:\Users\ramu\Documents\1.xls
+		 Old Excel File: C:\Users\ramu\Documents\Book1.xlsx
+		Output File: C:\Users\ramu\AppData\Local\Temp\temp.html
+		launch:True
+		Debug:True
+		LogFile:Log.txt
+08-24-2014 19:47 31 PM :		C:\Users\ramu\Documents\1.xls: 2 sheets
+		C:\Users\ramu\Documents\Book1.xlsx: 3 sheets
+
+08-24-2014 19:47 31 PM :Sheet count not matched.
+
+08-24-2014 19:48 35 PM :Starting Program...
+08-24-2014 19:48 35 PM :New Excel File: C:\Users\ramu\Documents\1.xls
+		 Old Excel File: C:\Users\ramu\Documents\2.xls
+		Output File: C:\Users\ramu\AppData\Local\Temp\temp.html
+		launch:True
+		Debug:True
+		LogFile:Log.txt
+08-24-2014 19:48 37 PM :		C:\Users\ramu\Documents\1.xls: 2 sheets
+		C:\Users\ramu\Documents\2.xls: 2 sheets
+
+08-24-2014 19:48 37 PM :Comparing Excel Files......
+
+08-24-2014 19:48 37 PM :Comparing Sheet 1: Sheet1
+08-24-2014 19:48 37 PM :Comparing Sheet 2: Sheet2
